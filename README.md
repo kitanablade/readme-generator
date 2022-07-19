@@ -7,6 +7,9 @@ AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 
+## Demo Video Link
+[Screencastify Video on Google Drive](https://drive.google.com/file/d/1u275NBJobQPjjePRcZWCCzV4dM8j3eO7/view)
+
 ## Acceptnce Criteria
 ```md
 GIVEN a command-line application that accepts user input
